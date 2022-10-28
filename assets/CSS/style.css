@@ -1,0 +1,8 @@
+.altura-img{
+    height: calc(100vh - 56px);
+    /* altura vh ancho vw */
+}
+
+.imagen{
+    height: 20rem;
+}
